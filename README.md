@@ -22,5 +22,5 @@ I participated in the Blue Book for Bulldozers contest, a classic Kaggle contest
 ## Contribution
 If you would like to contribute, please send a pull request or open an issue.
 
-## Licence
+## License
 This project is licensed under the MIT Licence. See the LICENSE file for more information.
