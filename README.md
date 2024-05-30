@@ -11,10 +11,13 @@ I participated in the Blue Book for Bulldozers contest, a classic Kaggle contest
 [Kaggle](https://www.kaggle.com/code/mergerin/blue-book-for-bulldozers)
 
 ## Model's Scores:
-Train RMSLE: 0.12
-Test RMSLE: 0.25
-Train R^2: 96.67%
-Test R^2: 88.22%
+
+| Metric          | Score  |
+|-----------------|--------|
+| Train RMSLE     | 0.12   |
+| Test RMSLE      | 0.25   |
+| Train R^2       | 96.67% |
+| Test R^2        | 88.22% |
 
 ## Contribution
 If you would like to contribute, please send a pull request or open an issue.
