@@ -1,0 +1,15 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
